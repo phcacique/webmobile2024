@@ -9,4 +9,4 @@ Foram criadas as seguintes provas de conceito:
 1. [Flexbox](poc1_flexbox)
 2. [Métodos de manipulação de Arrays em Javascript](poc2_arrays)
 3. [Media queries em CSS](poc3_mediaqueries)
-4.  [Consumo de API externa com fetch](poc4_api)
+4. [Consumo de API externa com fetch](poc4_api)
